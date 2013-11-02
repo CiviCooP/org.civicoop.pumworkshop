@@ -14,3 +14,8 @@
     <div class="crm-content">{$ApiBsn}
 </div>
 
+{literal}
+    <script type="text/javascript">
+        cj("#bsnID").appendTo("#im-block");
+    </script>
+{/literal}
