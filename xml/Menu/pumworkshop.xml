@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/showfields</path>
+    <page_callback>CRM_Pumworkshop_Page_ShowFields</page_callback>
+    <title>ShowFields</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
