@@ -10,7 +10,7 @@
  
 {crmAPI var="ApiBsn" entity="Contact" action="getvalue" q="civicrm/ajax/rest" version="3" id=$contactId return=custom_7}
 <div class="crm-summary-row" id="bsnID">
-    <div class="crm-label">BSN</div>
+    <div class="crm-label">BSN door jaap</div>
     <div class="crm-content">{$ApiBsn}
 </div>
 
