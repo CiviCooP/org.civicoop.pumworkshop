@@ -17,6 +17,6 @@
 {literal}
     <script type="text/javascript">
         cj("#bsnID").appendTo("#im-block");
-        cj("#custom-set-block-4-1").parent().hide();    
+        cj("#custom-set-block-4--1").parent().hide();    
     </script>
 {/literal}
